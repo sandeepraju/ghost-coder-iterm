@@ -6,7 +6,7 @@
 
 Have you ever been in a situation where you have to demo something on the terminal in front of an audience and you start fat-fingering all of a sudden?
 
-With ghost coder, you can save all those terminal commands in a text file and replay them on your terminal with a shortcut!
+With ghost coder, you can save all those terminal commands in a text file and replay them on your terminal with a shortcut (`\``)!
 
 ## Install
 
@@ -23,6 +23,7 @@ go get github.com/sandeepraju/ghost-coder-iterm
 - Open iTerm2
 - Press ⌥⌘R (or, Session -> Run Coprocess...)
 - Enter `ghost-coder-iterm /path/to/file/containing/commands.txt` and click OK
+- Press `\`` and Ghost Coder will automagically type in the command for you!
 
 ## Credits
 
