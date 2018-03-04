@@ -10,19 +10,19 @@ With ghost coder, you can save all those terminal commands in a text file and re
 
 ## Install
 
-You can download the binary directly from the [releases page](https://github.com/sandeepraju/ghost-coder-term/releases).
+You can download the binary directly from the [releases page](https://github.com/sandeepraju/ghost-coder-iterm/releases).
 
 Or you can install it from source using the command below:
 
 ```
-go get github.com/sandeepraju/ghost-coder-term
+go get github.com/sandeepraju/ghost-coder-iterm
 ```
 
 ## Usage
 
 - Open iTerm2
 - Press ⌥⌘R (or, Session -> Run Coprocess...)
-- Enter `ghostcoder /path/to/file/containing/commands.txt` and click OK
+- Enter `ghost-coder-iterm /path/to/file/containing/commands.txt` and click OK
 
 ## Credits
 
