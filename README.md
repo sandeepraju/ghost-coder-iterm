@@ -8,7 +8,7 @@ Have you ever been in a situation where you have to demo something on the termin
 
 With ghost coder, you can save all those terminal commands in a text file and replay them on your terminal with a shortcut!
 
-## Install
+## Installation
 
 You can download the binary directly from the [releases page](https://github.com/sandeepraju/ghost-coder-iterm/releases).
 
