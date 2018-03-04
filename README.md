@@ -1,6 +1,6 @@
 # ghost-coder-iterm
 
-[Ryan Michela](https://github.com/rmichela)'s Ghost Coder implementation in Golang.
+[Ryan Michela](https://github.com/rmichela)'s Ghost Coder, implemented in Golang.
 
 ## What is Ghost Coder?
 
